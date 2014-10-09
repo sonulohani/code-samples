@@ -11,3 +11,5 @@ These examples are released under the Apache 2.0 open source license.  Refer to 
 List of Code Samples
 --------------------
 posts/002-openacc-example: An example of [OpenACC Directives programming].
+
+bye
